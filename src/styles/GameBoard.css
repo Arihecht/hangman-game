@@ -1,0 +1,16 @@
+.game-board {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px 0;
+    font-size: 2em;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .letter {
+    border-bottom: 2px solid #118AB2;
+    padding: 0 5px;
+    text-transform: uppercase;
+  }
+  

@@ -1,0 +1,12 @@
+.hangman {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .hangman-image {
+    width: 200px;
+    height: auto;
+    max-width: 100%;
+  }
+  
+
